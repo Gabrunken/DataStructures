@@ -1,0 +1,5 @@
+CompileFlags:
+  Add:
+    - "-IC:\\Users\\Admin\\Desktop\\Code\\Repositories\\DataStructures\\include"
+    - "-xc"
+    - "-std=c17"
